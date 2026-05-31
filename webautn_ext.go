@@ -22,9 +22,9 @@ import (
 	"github.com/google/go-tpm/legacy/tpm2"
 	"gopkg.in/square/go-jose.v2"
 
-	"github.com/gddisney/guikit"
-	"github.com/gddisney/secure_policy"
-	"github.com/gddisney/ultimate_db"
+	"github.com/0TrustCloud/guikit"
+	"github.com/0TrustCloud/secure_policy"
+	"github.com/0TrustCloud/ultimate_db"
 )
 
 const AuthPageID ultimate_db.PageID = 1
